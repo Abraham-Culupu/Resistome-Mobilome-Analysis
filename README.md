@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Abraham-Culupu/Abraham-Culupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abraham-Culupu/AMR-analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
