@@ -22,8 +22,8 @@ Resistome-Mobilome-Analysis/
   - [AMRFinderPlus](https://github.com/ncbi/amr)
   - [MOB-suite](https://github.com/phac-nml/mob-suite)
   - [CheckV](https://bitbucket.org/berkeleylab/checkv)
-  - [ISEScan](https://github.com/xiezhq/ISEScan) (optional)
-  - [IntegronFinder](https://github.com/gem-pasteur/Integron_Finder) (optional)
+  - [ISEScan](https://github.com/xiezhq/ISEScan) 
+  - [IntegronFinder](https://github.com/gem-pasteur/Integron_Finder) 
 
 ## ⚙️ Setup
 
