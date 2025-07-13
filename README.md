@@ -59,11 +59,10 @@ bash scripts/mobilome.sh
 - Input directory: `Genomes/` with `.fasta` files
 - Output directory: `mobilome_results/` with parsed summaries
 
-> ⚠️ Note: CheckV, ISEScan, and IntegronFinder steps are placeholders and should be implemented if available in your pipeline.
 
 ## 👨‍🔬 Author
 
-**Abraham Espinoza Culupú**  
+**Abraham Espinoza Culupú**  UNMSM - 
 Molecular biologist and researcher in microbial genomics and antimicrobial resistance (One Health).
 
 ## 📄 License
