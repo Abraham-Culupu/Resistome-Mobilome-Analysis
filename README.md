@@ -1,9 +1,9 @@
 
-# Resistome-Mobilome-Analysis 🧬
+# Resistome-Mobilome-Analysis 
 
 This repository provides Bash scripts for the detection and analysis of **resistance genes (resistome)** and **mobile genetic elements (mobilome)** in bacterial genomes or contigs. These tools are useful for genomic surveillance studies and One Health-based antimicrobial resistance research.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Resistome-Mobilome-Analysis/
@@ -14,7 +14,7 @@ Resistome-Mobilome-Analysis/
 └── README.md
 ```
 
-## 🛠 Requirements
+##  Requirements
 
 - Unix-based system (Linux or WSL recommended)
 - Conda environment (recommended)
@@ -25,7 +25,7 @@ Resistome-Mobilome-Analysis/
   - [ISEScan](https://github.com/xiezhq/ISEScan) 
   - [IntegronFinder](https://github.com/gem-pasteur/Integron_Finder) 
 
-## ⚙️ Setup
+##  Setup
 
 Create a conda environment and install key tools:
 ```bash
@@ -39,7 +39,7 @@ conda install -c bioconda ncbi-amrfinderplus
 conda install -c bioconda mob_suite
 ```
 
-## 🚀 Usage
+##  Usage
 
 ### Run Resistome Analysis
 
@@ -60,11 +60,11 @@ bash scripts/mobilome.sh
 - Output directory: `mobilome_results/` with parsed summaries
 
 
-## 👨‍🔬 Author
+##  Author
 
 **Abraham Espinoza Culupú**  UNMSM - 
 Molecular biologist and researcher in microbial genomics and antimicrobial resistance (One Health).
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
